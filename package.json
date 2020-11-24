@@ -1,0 +1,27 @@
+{
+  "name": "solid-com-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuslnascimento/solid-com-express.git"
+  },
+  "keywords": [],
+  "author": "Mateus Lopes do Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuslnascimento/solid-com-express/issues"
+  },
+  "homepage": "https://github.com/mateuslnascimento/solid-com-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
